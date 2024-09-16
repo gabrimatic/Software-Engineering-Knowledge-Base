@@ -1038,3 +1038,12 @@ This comprehensive guide explores the vast landscape of software engineering, co
 ### 35.4 Privacy-Preserving AI
 - Federated Learning: Machine learning technique that trains an algorithm across multiple decentralized devices holding local data samples.
 - Differential Privacy: System for publicly sharing information about a dataset by describing patterns of groups within the dataset while withholding information about individuals.
+
+## Feedback
+
+If you have any feedback or suggestions for improving this guide, please open an issue in this repository. I appreciate your input in making this resource more valuable for the software engineering community.
+
+## Knowledge Architect
+By [Hossein Yousefpour](https://gabrimatic.info "Hossein Yousefpour")
+
+&copy; All rights reserved.

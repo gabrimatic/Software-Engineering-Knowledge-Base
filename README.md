@@ -1044,6 +1044,6 @@ This comprehensive guide explores the vast landscape of software engineering, co
 If you have any feedback or suggestions for improving this guide, please open an issue in this repository. I appreciate your input in making this resource more valuable for the software engineering community.
 
 ## Knowledge Architect
-By [Hossein Yousefpour](https://gabrimatic.info "Hossein Yousefpour")
+By [Soroush Yousefpour](https://gabrimatic.info "Soroush Yousefpour")
 
 &copy; All rights reserved.
